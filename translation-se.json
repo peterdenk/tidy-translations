@@ -1,14 +1,14 @@
 {
 
 "ui": {
-	"back": "Back",
-	"email": "Email",
-	"password": "Password",
-	"cancel": "Cancel",
-	"file": "File",
-	"directory": "Directory",
-	"new": "New",
-	"save_changes": "Save changes"
+	"back": "Tillbaka",
+	"email": "E-post",
+	"password": "Lösenord",
+	"cancel": "Avbryt",
+	"file": "Fil",
+	"directory": "Mapp",
+	"new": "Ny",
+	"save_changes": "Spara ändringar"
 },
 
 "error": {
@@ -25,9 +25,9 @@
 		"win_not_supported": "TidyCMS does not support Windows-environment (yet). Please run this CMS in Linux webhost."
 	},
 	"user": {
-		"email_invalid": "Something wrong in the email address.",
+		"email_invalid": "E-postadressen är felaktig.",
 		"weak_password": "Your password is too weak, use different characters.",
-		"password_mismatch": "Passwords do not match.",
+		"password_mismatch": "Löenorden är inte samma.",
 		"alreadyexists": "A account with this email already exists! Try login instead of creating a new account.",
 		"accountnotfound": "This account does not exist. Please contact site administrator to create an account for you.",
 		"wrongpassword": "Wrong password, try again or reset your password by clicking \"Forgot password\" link.",
@@ -35,22 +35,22 @@
 		"confirm_fail": "Confirm failed. Please try again"
 	},
 	"authentication": {
-		"api": "Authentication failed, please login again",
-		"client": "Authentication failed, please login again"
+		"api": "Inloggningen misslyckades, vänligen försök igen",
+		"client": "Inloggningen misslyckades, vänligen försök igen"
 	},
 	"timediff_60s_more": "Your server clock differs more than 60s from universal time. Please contact your hosting admin.",
 	"timediff_60m_more": "Your server clock differs more than 1 hour from universal time. Please contact your hosting admin.",
 	"technical": "Technical error, please contact support.",
 	"file": {
-		"not_exists": "File does not exist",
+		"not_exists": "Filen finns inte",
 		"not_writable": "File is not writable and can not be edited",
-		"upload": "Upload failed",
-		"upload_permission": "Upload failed. Check permissions",
-		"create_failed": "Unable to create file. Check permissions",
+		"upload": "Uppladdningen misslyckades",
+		"upload_permission": "Uppladdningen misslyckades. Kontrollera behörigheten",
+		"create_failed": "Uppladdningen misslyckades. Kontrollera behörigheten",
 		"filename_slashend": "Error: Remove slash from end of filename",
 		"filename_htmlend": "Error: Remove .html from end of filename",
-		"unable_to_remove": "Error: Could not remove file.",
-		"no_html_files_found": "Error: No .html files found. Tidy requires at least HTML-file to work with."
+		"unable_to_remove": "Fel: Filen går inte att ta bort.",
+		"no_html_files_found": "Fel: Det finns ingen HTML-fil. Tidy måste ha minst en HTML-fil att arbeta med."
 	},
 	"update": {
 		"failed": "Error in updating TidyCMS. Please download and reinstall tidycms.zip from <a href=\"http://tidycms.com\">http://tidycms.com</a>"
@@ -61,13 +61,13 @@
 "user": {
 	"login": {
 		"title": "Login with your account",
-		"forgot_password": "Forgot password",
-		"send_new_pw": "Send new password",
+		"forgot_password": "Glömt lösenordet",
+		"send_new_pw": "Skicka nytt lösenord",
 		"confirm_new_pw": "Confirm you want a new password by typing the next numbers:",
 		"new_password_sent": "We have sent a new password to your email address",
 		"label": {
-			"email": "Email",
-			"password": "Password"
+			"email": "E-post",
+			"password": "Lösenord"
 		}
 	},
 	"account": {
