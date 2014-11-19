@@ -46,7 +46,7 @@
 		"not_writable": "Filen är skrivskyddad och kan därför inte redigeras",
 		"upload": "Uppladdningen misslyckades",
 		"upload_permission": "Uppladdningen misslyckades. Kontrollera behörigheten",
-		"create_failed": "Uppladdningen misslyckades. Kontrollera behörigheten",
+		"create_failed": "Filen kunde inte skapas. Kontrollera behörigheten",
 		"filename_slashend": "Fel: Ta bort snedstreck från slutet av filnamnet",
 		"filename_htmlend": "Fel: Ta bort .html från slutet av filnamnet",
 		"unable_to_remove": "Fel: Filen går inte att ta bort.",
@@ -60,58 +60,58 @@
 
 "user": {
 	"login": {
-		"title": "Login with your account",
+		"title": "Logga in med ditt konto",
 		"forgot_password": "Glömt lösenordet",
 		"send_new_pw": "Skicka nytt lösenord",
-		"confirm_new_pw": "Confirm you want a new password by typing the next numbers:",
-		"new_password_sent": "We have sent a new password to your email address",
+		"confirm_new_pw": "Bekräfta att du vill ha ett nytt lösenord genom att skriva in följande siffror:",
+		"new_password_sent": "Vi har kickat ett nytt lösenord till din e-postadress",
 		"label": {
 			"email": "E-post",
 			"password": "Lösenord"
 		}
 	},
 	"account": {
-		"create_title": "Create your account",
-		"login_title": "Login with your TidyCMS account",
+		"create_title": "Skapa ditt konto",
+		"login_title": "Logga in med ditt TidyCMS-konto",
 		"label": {
-			"name": "Name",
-			"first": "Firstname",
-			"last": "Lastname",
-			"email": "Your email address",
-			"new_password": "Change password",
-			"confirm": "Confirm password",
-			"date_added": "Added",
-			"language": "Language"
+			"name": "Namn",
+			"first": "Förnamn",
+			"last": "Efternamn",
+			"email": "Din e-postadress",
+			"new_password": "Ändra lösenord",
+			"confirm": "Bekräfta lösenord",
+			"date_added": "Skapad",
+			"language": "Språk"
 		},
 		"tab": {
-			"account": "Your account",
-			"siteusers": "Site users"
+			"account": "Ditt konto",
+			"siteusers": "Användare"
 		},
 		"button": {
-			"create": "Create account",
-			"login": "Login",
-			"update": "Update account"
+			"create": "Skapa konto",
+			"login": "Logga in",
+			"update": "Spara konto"
 		},
-		"updated": "Your account updated successfully",
-		"lang_changed": "Your language has changed. Load new language?"
+		"updated": "Ditt konto sparades",
+		"lang_changed": "Din språkinställning har ändrats. Vill du byta språk?"
 	},
 	"invite": {
-		"label": "Invite users",
-		"placeholder": "firstemail@adr.com, secondadr@somebox.com...",
-		"button": "Invite",
-		"already_invited": "__email__ already invited to this site",
-		"invite_yourself": "You can not invite yourself",
-		"mail_already_added": "This mail address is already in the list",
-		"success": "__invitecount__ new users invited to this site",
-		"remove": "Are you sure you want to remove this user from your site?",
-		"user_removed": "__adr__ removed from this site"
+		"label": "Bjud in användare",
+		"placeholder": "forsta@doman.se, andra@doman.se ...",
+		"button": "Bjud in",
+		"already_invited": "__email__ är redan inbjuden till webbplatsen",
+		"invite_yourself": "Du kan inte bjuda in dig själv",
+		"mail_already_added": "E-postadressen finns redan registrerad",
+		"success": "__invitecount__ nya användare inbjudna till webbplatsen",
+		"remove": "Är du säker på att du vill ta bort användaren från webbplatsen?",
+		"user_removed": "__adr__ borttagen från webbplatsen"
 	},
 	"status": {
-		"invited": "Invited"
+		"invited": "Inbjuden"
 	},
-	"role": "Role",
+	"role": "Roll",
 	"role_designer": "Designer",
-	"role_user": "User"
+	"role_user": "Användare"
 },
 
 "site": {
