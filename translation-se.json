@@ -27,28 +27,28 @@
 	"user": {
 		"email_invalid": "E-postadressen är felaktig.",
 		"weak_password": "Ditt lösenord är för svagt, använd olika tecken.",
-		"password_mismatch": "Löenorden är inte samma.",
-		"alreadyexists": "A account with this email already exists! Try login instead of creating a new account.",
-		"accountnotfound": "This account does not exist. Please contact site administrator to create an account for you.",
-		"wrongpassword": "Wrong password, try again or reset your password by clicking \"Forgot password\" link.",
-		"no_invite": "Your invite key is not valid for this site. Please contact the site admin to invite you again.",
-		"confirm_fail": "Confirm failed. Please try again"
+		"password_mismatch": "Lösenorden är inte samma.",
+		"alreadyexists": "Ett konto med den här e-postadressen finns redan ! Försök att logga in istället för att skapa ett nytt konto.",
+		"accountnotfound": "Det här kontot existerar inte. Be webbplatsens administratör att skapa ett konto åt dig.",
+		"wrongpassword": "Fel lösenord, försök igen eller återställ ditt lösenord genom att klicka på länken \"Glömt lösenordet\".",
+		"no_invite": "Din inbjudning är inte giltig på den här webbplatsen. Be webbplatsens administratör att bjuda in dig igen.",
+		"confirm_fail": "Bekräftelsen misslyckades. Vänligen försök igen"
 	},
 	"authentication": {
-		"api": "Inloggningen misslyckades, vänligen försök igen",
-		"client": "Inloggningen misslyckades, vänligen försök igen"
+		"api": "Inloggningen misslyckades. Vänligen försök igen",
+		"client": "Inloggningen misslyckades. Vänligen försök igen"
 	},
-	"timediff_60s_more": "Your server clock differs more than 60s from universal time. Please contact your hosting admin.",
-	"timediff_60m_more": "Your server clock differs more than 1 hour from universal time. Please contact your hosting admin.",
-	"technical": "Technical error, please contact support.",
+	"timediff_60s_more": "Klockan på din server skiljer sig mer är en minut från UTC-tid. Kontakta din systemadministratör.",
+	"timediff_60m_more": "Klockan på din server skiljer sig mer är en timma från UTC-tid. Kontakta din systemadministratör.",
+	"technical": "Tekniskt fel. Kontakta supporten.",
 	"file": {
 		"not_exists": "Filen finns inte",
-		"not_writable": "File is not writable and can not be edited",
+		"not_writable": "Filen är skrivskyddad och kan därför inte redigeras",
 		"upload": "Uppladdningen misslyckades",
 		"upload_permission": "Uppladdningen misslyckades. Kontrollera behörigheten",
 		"create_failed": "Uppladdningen misslyckades. Kontrollera behörigheten",
-		"filename_slashend": "Error: Remove slash from end of filename",
-		"filename_htmlend": "Error: Remove .html from end of filename",
+		"filename_slashend": "Fel: Ta bort snedstreck från slutet av filnamnet",
+		"filename_htmlend": "Fel: Ta bort .html från slutet av filnamnet",
 		"unable_to_remove": "Fel: Filen går inte att ta bort.",
 		"no_html_files_found": "Fel: Det finns ingen HTML-fil. Tidy måste ha minst en HTML-fil att arbeta med."
 	},
