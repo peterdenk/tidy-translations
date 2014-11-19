@@ -26,7 +26,7 @@
 	},
 	"user": {
 		"email_invalid": "E-postadressen är felaktig.",
-		"weak_password": "Your password is too weak, use different characters.",
+		"weak_password": "Ditt lösenord är för svagt, använd olika tecken.",
 		"password_mismatch": "Löenorden är inte samma.",
 		"alreadyexists": "A account with this email already exists! Try login instead of creating a new account.",
 		"accountnotfound": "This account does not exist. Please contact site administrator to create an account for you.",
@@ -343,22 +343,22 @@
 			}
 		},
 		"emote": {
-			"title_happy": "You are feeling happy! Great, please tell us why.",
-			"title_confused": "Feeling confused? Please tell us why so that we can fix things",
-			"title_angry": "Feeling of anger! Please tell us what is wrong!",
-			"placeholder": "Write your feelings here...",
-			"send": "Send feedback",
-			"feedback_required": "Please write something. We want to have your feedback!",
-			"received": "Feedback sent! Your feedback fill (hopefully) help make TidyCMS a better CMS"
+			"title_happy": "Nöjd! Utmärkt, berätta för oss vad som gör dig nöjd.",
+			"title_confused": "Förvirrad? Vänligen berätta för oss varför så vi kan fixa problemet.",
+			"title_angry": "Irriterad! Vänligen berätta för oss vad som är fel!",
+			"placeholder": "Skriv din återkoppling här...",
+			"send": "Skicka",
+			"feedback_required": "Vänligen skriv något. Vi vill veta hur du upplever TidyCMS!",
+			"received": "Meddelandet skickat! Din återkoppling kommer (förhoppningsvis) att göra TidyCMS till ett bättre CMS"
 		},
 		"preview": {
-			"desktop": "Desktop mode",
-			"tablet": "Tablet mode",
-			"mobile": "Mobile mode"
+			"desktop": "Datorskärm",
+			"tablet": "Surfplatta",
+			"mobile": "Mobil"
 		},
 		"menu": {
-			"placeholder": "Select menu",
-			"nomenu": "No menu"	
+			"placeholder": "Välj meny",
+			"nomenu": "Ingen meny"	
 		},
 		"sourcecode": "Page source",
 		"siteconf": "Settings",
@@ -386,9 +386,9 @@
 },
 
 "oldbrowser": {
-	"title": "We don't know if TidyCMS (beta) works in your browser",
-	"desc": "We have tested and we know TidyCMS works with the latest versions of following browsers:",
-	"continue": "I know what I'm doing, continue!"
+	"title": "Vi vet inte om TidyCMS (beta) fungerar i din webbläsare",
+	"desc": "Vi har testat och vi vet att TidyCMS fungerar med senaste versionen av följande webbläsare:",
+	"continue": "Jag vet vad jag gör, fortsätt!"
 },
 
 "localhost": {
@@ -405,7 +405,7 @@
 },
 
 "demo": {
-	"welcome": "Welcome to TidyCMS demo. This demo will be available for 1 day and then will be removed."	
+	"welcome": "Välkommen till TidyCMS demo. Den här demon kommer att vara tillgänglig en dag och sedan tas bort."	
 }
 
 }
